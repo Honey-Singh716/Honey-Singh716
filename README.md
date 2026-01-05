@@ -45,8 +45,9 @@ I learn concepts best by building notebooks and experimenting with real data rat
 ## 🌐 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/honey-singh-in  
-- **Kaggle:** https://www.kaggle.com/YOUR_KAGGLE_USERNAME  
-- **Email:** honeysingh.work12@gmail.com  
+- **Kaggle:** https://www.kaggle.com/honeysingh12coder
+- **Email:** honeysingh.work12@gmail.com
+- **LeetCode** https://leetcode.com/u/honey-singh_12
 
 ---
 
